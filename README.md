@@ -1,6 +1,6 @@
 # JavaScript Mastery
 
-## Following along with [JavaScript matery Complete Course](https://youtu.be/xc3a_CJhjCc) on YouTube
+## Following along with [JavaScript mastery Complete Course](https://youtu.be/xc3a_CJhjCc) on YouTube
 
 ### 1. Variables and Data Types
 
