@@ -2,8 +2,10 @@
 
 ## Following along with [JavaScript matery Complete Course](https://youtu.be/xc3a_CJhjCc) on YouTube
 
-### 1. Variables and Types
+### 1. Variables and Data Types
 
-> #### [Variables](variables_and_types/variables.js)
+> #### [Variables](1_variables_and_types/Variables.md)
 >
-> #### [Types](variables_and_types/types.js)
+> #### [Data Types](1_variables_and_types/Data_Types.md)
+
+### 2. [Arrays](arrays/arrays.js)
