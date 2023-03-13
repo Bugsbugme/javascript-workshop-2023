@@ -8,4 +8,4 @@
 >
 > #### [Data Types](1_variables_and_types/Data_Types.md)
 
-### 2. [Arrays](arrays/arrays.js)
+### 2. [Arrays](2_arrays/Arrays.md)

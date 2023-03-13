@@ -1,6 +1,6 @@
 # [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#data_types)
 
-It's a common requirement in programming languages, to specify the the data type when declaring variables. JavaScript though, is "dynamically typed" meaning you don't need to do this and types are automatically converted when they need to be. - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types#data_type_conversion)
+It's a common requirement in programming languages to specify the the data type when declaring variables. JavaScript though, is "dynamically typed" meaning you don't need to do this and types are automatically converted when they need to be. - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types#data_type_conversion)
 
 These are some of the [primitive data types](https://developer.mozilla.org/en-US/docs/Glossary/Primitive) you can work with in JavaScript.
 
@@ -10,7 +10,7 @@ These are some of the [primitive data types](https://developer.mozilla.org/en-US
 > - [undefined](https://developer.mozilla.org/en-US/docs/Glossary/Undefined)
 > - [null](https://developer.mozilla.org/en-US/docs/Glossary/Null)
 
-To see the data type a variable is holding, use the `typeof()` method - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
+To see the data type a variable is holding, use the [`typeof()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof) method.
 
 > ```js
 > > var x = ""
@@ -21,7 +21,7 @@ To see the data type a variable is holding, use the `typeof()` method - [MDN](ht
 
 JavaScript's "dynamically typed" nature means it's possible to add a `number` with a `string`.
 
-In this case, a `number` will be converted to a `string`. Meanwhile, the `+` operator not only adds `numbers` together, but it concatenates `strings`.
+In this case, a `number` will be converted to a `string`. Meanwhile, the `+` operator will not only add `numbers` together, but it also concatenates `strings`.
 
 > ```js
 > > var string1 = "This"
